@@ -6,5 +6,5 @@ output "endpoint" {
 }
 
 output "ssh_test" {
-  value = "test6"
+  value = "test7"
 }
